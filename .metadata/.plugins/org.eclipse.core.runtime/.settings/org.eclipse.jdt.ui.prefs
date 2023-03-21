@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="FuncionarioTeste"><rhs name\="FuncionarioTeste"/></lhs><lhs name\="ControleBonificacao"><rhs name\="ControleBonificacao"/></lhs><lhs name\="Funcionario"><rhs name\="Funcionario"/><rhs name\="EditorVideo"/><rhs name\="Administrador"/><rhs name\="Gerente"/></lhs><lhs name\="EditorVideo"><rhs name\="EditorVideo"/></lhs><lhs name\="Conta"><rhs name\="ContaPoupanca"/><rhs name\="ContaCorrente"/></lhs><lhs name\="ContaCorrente"><rhs name\="ContaCorrente"/></lhs><lhs name\="ContaPoupanca"><rhs name\="ContaPoupanca"/></lhs><lhs name\="SistemaInterno"><rhs name\="SistemaInterno"/></lhs><lhs name\="Administrador"><rhs name\="Administrador"/></lhs><lhs name\="Autenticavel"><rhs name\="Gerente"/><rhs name\="Cliente"/></lhs><lhs name\="Gerente"><rhs name\="Gerente"/></lhs><lhs name\="Cliente"><rhs name\="Cliente"/></lhs><lhs name\="AutenticacaoUtil"><rhs name\="AutenticacaoUtil"/></lhs><lhs name\="Tributavel"><rhs name\="ContaCorrente"/><rhs name\="SeguroDeVida"/></lhs><lhs name\="SeguroDeVida"><rhs name\="SeguroDeVida"/></lhs><lhs name\="CalculadorImposto"><rhs name\="CalculadorImposto"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

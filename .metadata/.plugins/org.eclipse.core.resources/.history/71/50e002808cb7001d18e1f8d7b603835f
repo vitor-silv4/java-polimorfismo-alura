@@ -1,0 +1,8 @@
+
+public class Gerente extends Autenticavel {
+	
+	public double getBonificacao() {
+		System.out.println("Chamando método de bonificação Gerente");
+		return super.getSalario();
+	}
+}

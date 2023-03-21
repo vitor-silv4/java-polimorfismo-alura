@@ -1,0 +1,8 @@
+
+public class SistemaInterno {
+	private int senha = 222;
+	
+	public void autentica(Gerente g) {
+		boleean autenticou = g.autentica(this.senha);
+	}
+}
